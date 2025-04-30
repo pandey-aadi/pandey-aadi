@@ -1,6 +1,7 @@
 ## Hi there 👋
 # 💫 About Me:
-studying
+🌩️ Cloud & DevOps Engineer | 🚀 Automation Enthusiast | 🔐 Secure, Scalable Systems
+Passionate about designing cloud-native solutions, CI/CD pipelines.
 
 
 ## 🌐 Socials:
