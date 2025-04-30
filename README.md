@@ -24,4 +24,10 @@ Passionate about designing cloud-native solutions, CI/CD pipelines.
 ---
 [![](https://visitcount.itsvg.in/api?id=pandey-aadi&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div align= "centre">
+  
+  ![snake gif](https://github.com/pandey-aadi/pandey-aadi/blob/output/github-snake-dark.svg)
+  
+</div>
+
